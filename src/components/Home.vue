@@ -38,6 +38,8 @@
       
     </p>
 
+    <a href="https://github.com/feliperrella-usp/PEF3208-Simulador-Reacoes">Acesse nosso Repositório no Github</a>
+
     <h1 id="estrutura-simulada">Estruturas simuladas</h1>
     
           <v-row dense>
