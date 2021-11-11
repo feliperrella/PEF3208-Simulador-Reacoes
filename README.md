@@ -1,6 +1,8 @@
 # Trabalho PEF3208 - Simulação de Exercícios
 
-## Inatale o NPM, o Vue CLI e depois navegue ate a pasta do projeto
+## Projeto realizado para a disciplina de Mecanica de Estruturas da Politécnica da USP para simular exercícios utilizando VueJS e MatterJS
+
+## Instale o NPM, o Vue CLI e depois navegue ate a pasta do projeto
 
 ## Setup
 ```
